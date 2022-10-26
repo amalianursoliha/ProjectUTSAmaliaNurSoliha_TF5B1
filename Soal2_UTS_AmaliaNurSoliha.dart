@@ -23,7 +23,7 @@ void main() {
   String grade;
 
   if (nilai >= 85 && nilai <= 90)
-    //jika true menghasilan baris 27 kalau false akan ke if berikutnya
+    //jika true akan menghasilan baris 27 kalau false akan ke if berikutnya
     grade = "A";
   else if (nilai >= 75 && nilai <= 84)
     grade = "B";
